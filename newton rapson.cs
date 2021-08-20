@@ -1,5 +1,5 @@
 ﻿using System;
-
+// root finding
 namespace ConsoleApp15
 {
     class Program
